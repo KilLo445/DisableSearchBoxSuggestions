@@ -6,7 +6,7 @@ namespace DisableSearchBoxSuggestions
     internal class Program
     {
         public static string version = "1.0";
-        public static string githubLink = "https://github.com/KilLo445/DSBS";
+        public static string githubLink = "https://github.com/KilLo445/DisableSearchBoxSuggestions";
 
         public static string asciiArt = $@"                  
     ,---,      .--.--.       ,---,.   .--.--.    
