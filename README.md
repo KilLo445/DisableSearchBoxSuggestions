@@ -7,6 +7,12 @@
   <p align="center">
     Disable Search Box Suggestions, or DSBS is a simple tool created by KilLo that disables the annoying web-searches and Copilot in the Windows 11 Start Menu, allowing you to only search for files and run commands.
     <br />
+    <br />
+    <a href="https://github.com/KilLo445/DisableSearchBoxSuggestions/issues/new?assignees=KilLo445&labels=bug&projects=&template=bug_report.md&title=%5BBug+Report%5D+Simple+description+of+the+bug">Report Bug</a>
+    ·
+    <a href="https://github.com/KilLo445/DisableSearchBoxSuggestions/issues/new?assignees=KilLo445&labels=enhancement&projects=&template=feature_request.md&title=%5BFeature%5D+Simple+description+of+your+request">Request Feature</a>
+    <br />
+    <br />
   </p>
 
   [![Forks][forks-shield]][forks-url]
