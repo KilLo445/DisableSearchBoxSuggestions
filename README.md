@@ -35,6 +35,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#arguments">Arguments</a></li>
       </ul>
     </li>
     <li><a href="#license">License</a></li>
@@ -84,6 +85,8 @@ Built for Windows 11, untested on Windows 10
 4. Run it
 5. Select mode
 
+### Arguments
+- -help `Displays all available command line arguments`
 
 <!-- LICENSE -->
 ## License
