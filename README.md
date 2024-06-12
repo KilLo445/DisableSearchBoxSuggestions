@@ -101,8 +101,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Project Link: [https://github.com/KilLo445/DisableSearchBoxSuggestions](https://github.com/KilLo445/DisableSearchBoxSuggestions)
 
-DisableSearchBoxSuggestions is not affiliated with EA nor the Need for Speed brand in any way.
-
 
 
 <p align="center">(<a href="#readme-top">Back to top</a>)</p>
