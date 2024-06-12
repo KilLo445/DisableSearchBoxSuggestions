@@ -47,7 +47,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![DisableSearchBoxSuggestions Screenshot](https://raw.githubusercontent.com/KilLo445/DisableSearchBoxSuggestions/main/Remote/AppScreenshot.png)
+![DisableSearchBoxSuggestions Screenshot](https://raw.githubusercontent.com/KilLo445/DisableSearchBoxSuggestions/main/Remote/DemoLQ.gif)
+[GIF not loading?](https://youtu.be/vCUS8Gz65WQ)
 
 Ever have any of these happen?
 * You search for an app on Windows, and it opens Bing?
