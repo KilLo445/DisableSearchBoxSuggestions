@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![DisableSearchBoxSuggestions Screenshot](https://raw.githubusercontent.com/KilLo445/DisableSearchBoxSuggestions/main/Remote/DemoLQ.gif)
+![DisableSearchBoxSuggestions Screenshot](https://raw.githubusercontent.com/KilLo445/DisableSearchBoxSuggestions/main/Remote/DemoHQ.gif)
 [GIF not loading?](https://youtu.be/vCUS8Gz65WQ)
 
 Ever have any of these happen?
