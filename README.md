@@ -60,7 +60,7 @@ Then DSBS is for you!
 
 DSBS is a simple tool that goes into the Windows Registry and disables the search box suggestions, making it so your Start Menu searches **ONLY** Files, Folders, Apps, and Run Commands! And if you *really* want to, you can re-enable them.
 
-Built for Windows 11, untested on Windows 10
+Built for Windows 10/11
 
 ### Built With
 
