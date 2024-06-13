@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
-using System.IO;
+using System.Reflection;
 using System.Security.Principal;
 using System.Threading;
 using Microsoft.Win32;
@@ -9,7 +9,7 @@ namespace DisableSearchBoxSuggestions
 {
     internal class Program
     {
-        public static string version = "1.1";
+        public static string version = "1.2";
         public static string githubLink = "https://github.com/KilLo445/DisableSearchBoxSuggestions";
         public static string changeLink = "https://github.com/KilLo445/DisableSearchBoxSuggestions/blob/main/Changelog.md";
 
@@ -120,7 +120,7 @@ namespace DisableSearchBoxSuggestions
                     Console.WriteLine("Restarting...");
                     Thread.Sleep(200);
                     Process dsbs = new Process();
-                    dsbs.StartInfo.FileName = Path.Combine(Directory.GetCurrentDirectory()) + "\\" + "DisableSearchBoxSuggestions.exe";
+                    dsbs.StartInfo.FileName = Assembly.GetExecutingAssembly().CodeBase;
                     dsbs.StartInfo.Arguments = " -dsbs";
                     dsbs.Start();
                     Environment.Exit(0);
@@ -218,6 +218,7 @@ namespace DisableSearchBoxSuggestions
         {
             Console.WriteLine();
             Console.WriteLine("An error occured...");
+            Console.WriteLine("Restarting the program my help.");
             Console.WriteLine($"{ex}");
             PressAnyKeyToExit();
         }
