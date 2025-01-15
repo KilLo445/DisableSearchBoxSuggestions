@@ -86,7 +86,14 @@ Built for Windows 10/11
 5. Select mode
 
 ### Arguments
-- -help `Displays all available command line arguments`
+- -help `Displays all available commands`
+- -github `Opens GitHub page`
+- -dsbs `Disable Search Box Suggestions`
+- -esbs `Enable Search Box Suggestions`
+- -about `About DSBS`
+- -changelog `Open Changelog`
+- -version `Shows installed version`  
+These also work with the first letter of each arg, -d, -e, etc, or with the numeric option.
 
 <!-- LICENSE -->
 ## License
