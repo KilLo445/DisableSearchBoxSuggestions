@@ -17,7 +17,7 @@
   [![Stargazers][stars-shield]][stars-url]
   [![Issues][issues-shield]][issues-url]
   <br />
-  [![Downloads][dl-shield]][issues-url]
+  [![Downloads][dl-shield]][latest]
 </div>
 
 
@@ -133,6 +133,7 @@ Project Link: [https://github.com/KilLo445/DisableSearchBoxSuggestions](https://
 [Framework]: https://img.shields.io/badge/.NET_Framework-4.8-purple
 [framework-url]: https://dotnet.microsoft.com/en-us/download/dotnet-framework
 [dl-shield]: https://img.shields.io/github/downloads/KilLo445/DisableSearchBoxSuggestions/total?style=for-the-badge&label=Downloads&color=2E3440
+[latest]: https://github.com/KilLo445/DisableSearchBoxSuggestions/releases/latest
 
 <!-- README Template -->
 <!-- https://github.com/othneildrew/Best-README-Template -->
